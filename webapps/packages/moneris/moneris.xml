@@ -1,0 +1,10 @@
+<?xml version='1.0' standalone='yes'?>
+<toma>
+    <module>
+        <name>Moneris</name>
+        <version>1.2</version>
+        <description>Sample XML description for moneris module</description>
+        <atuhor>Syahril Hermana</atuhor>
+        <organitation>Toma Digital Internasional</organitation>
+    </module>
+</toma>

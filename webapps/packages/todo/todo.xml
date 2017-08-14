@@ -1,0 +1,10 @@
+<?xml version='1.0' standalone='yes'?>
+<toma>
+    <module>
+        <name>Simple Package ToDo</name>
+        <version>1.0</version>
+        <description>First simple package todo for iEngine.</description>
+        <atuhor>Syahril Hermana</atuhor>
+        <organitation>Toma Digital Internasional</organitation>
+    </module>
+</toma>
